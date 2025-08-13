@@ -85,4 +85,6 @@ Exploring hidden wiki alternatives can expand your understanding of the dark web
 
 Please contribute and add stars to this repo.
 
-Update:  08/04/2025 url is now active
+
+
+Update:  13.08.2025 url is now accessible and functioning
